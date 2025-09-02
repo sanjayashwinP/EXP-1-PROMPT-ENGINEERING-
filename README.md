@@ -22,7 +22,7 @@ Generative AI impact of scaling in LLMs.
 Create a Comprehensive Report on the Fundamentals of Generative AI and Large Language Models for 8 to 10 pages if require add images also in it and give me as a word file.
 ## Output
 
-[Sanjay Ashwin comprehensive report prompt.pdf](https://github.com/user-attachments/files/22093476/Sanjay.Ashwin.comprehensive.report.prompt.pdf)
+[Sanjay Ashwin comprehensive report prompt ex1.pdf](https://github.com/user-attachments/files/22093600/Sanjay.Ashwin.comprehensive.report.prompt.ex1.pdf)
 
 ## Result
 The experiment showed that prompt design greatly improves the quality of outputs from LLMs. It successfully demonstrated Generative AI concepts, architectures, applications, and scaling impacts.
