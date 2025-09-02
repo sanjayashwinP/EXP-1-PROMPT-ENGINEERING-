@@ -1,5 +1,6 @@
 # EXP-1-PROMPT-ENGINEERING-
-
+### Name:Sanjay Ashwin P
+### Reg no:212223040181
 ## Aim: 
 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment: Develop a comprehensive report for the following exercises:
@@ -17,9 +18,11 @@ Generative AI impact of scaling in LLMs.
 3.Run the prompts on the same task.
 
 4.Record outputs and write the report.
+## Prompt
+Create a Comprehensive Report on the Fundamentals of Generative AI and Large Language Models for 8 to 10 pages if require add images also in it and give me as a word file.
 ## Output
 
-[Sanjay Ashwin prompt engineering Generative Ai Report.pdf](https://github.com/user-attachments/files/22057530/Sanjay.Ashwin.prompt.engineering.Generative.Ai.Report.pdf)
+[Sanjay Ashwin comprehensive report prompt.pdf](https://github.com/user-attachments/files/22093476/Sanjay.Ashwin.comprehensive.report.prompt.pdf)
 
 ## Result
 The experiment showed that prompt design greatly improves the quality of outputs from LLMs. It successfully demonstrated Generative AI concepts, architectures, applications, and scaling impacts.
